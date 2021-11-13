@@ -34,5 +34,5 @@ Technical Studies in Applied Computing / Tecnicatura en Informática Aplicada
 
 ## In my repositories you'll find some introductory code about Python and R
 
-## Contact me by [Linkedin Profile](https://www.linkedin.com/in/lucas-ezequiel-castro-709723187/)
+## Contact me: [Linkedin](https://www.linkedin.com/in/lucas-ezequiel-castro-709723187/)
 
