@@ -5,7 +5,6 @@
 ```
 Data Analytics Consultor - Since March 2020
 Programming Professor - Since August 2015
-
 ```
 
 ### Data Analytics Skills:
