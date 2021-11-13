@@ -33,7 +33,7 @@ Technical Studies in Applied Computing / Tecnicatura en Informática Aplicada
 ```
 [Link](http://www.inspt.utn.edu.ar/academica/60_informatica_aplicada.html)
 
-## In my repositories you'll find some introductory code about Python and R
+## In my repositories you'll find some introductory code about [Python](Python) and [R](R)
 
 ## Contact me: [Linkedin](https://www.linkedin.com/in/lucas-ezequiel-castro-709723187/)
 
