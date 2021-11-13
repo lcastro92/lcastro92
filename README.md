@@ -16,7 +16,7 @@ R
 Python
 Learning Power Bi and Power Authomate
 ```
-I'm  working on my Data Analytics [portfolio](lcastro92.github.io) 
+I'm  working on my Data Analytics [portfolio](https://lcastro92.github.io) 
 
 ### Studies
 ```
