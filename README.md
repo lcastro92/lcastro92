@@ -20,6 +20,11 @@ I'm  working on my Data Analytics [portfolio](https://lcastro92.github.io)
 
 ### Studies
 ```
+Certificate of Advanced in Business Analysis - / Diplomatura en Análisis de Negocios (Business Analysis) 
+``` 
+[Link](https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1022/diplomatura-en-analisis-de-negocios-business-analysis)
+
+```
 Certificate of Advanced in Business Inteligence - / Diplomatura en Business Intelligence 
 ``` 
 [Link](https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/630/diplomatura-en-business-intelligence)
