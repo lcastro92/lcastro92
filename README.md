@@ -11,7 +11,7 @@
 Analista de Business Intelligence, Educador Tecnológico y Especialista en IA con más de 10 años de experiencia combinada. 
 
 * 📊 **Business Intelligence:** Especializado en ETL, modelado de datos y desarrollo de tableros en **Power BI**, **MicroStrategy (Dossiers)** y **QlikView**.
-* 🤖 **Inteligencia Artificial:** Diplomado con nota **Sobresaliente** en la UTN. Capacitador del curso *"IA para la Productividad"* (alfabetización digital y herramientas generativas para perfiles no técnicos) e investigador/prototipador de PoCs.
+* 🤖 **Inteligencia Artificial:** Diplomado en la UTN. Capacitador del curso *"IA para la Productividad"* (alfabetización digital y herramientas generativas para perfiles no técnicos) e investigador/prototipador de PoCs.
 * 🎓 **Educación:** Docente de programación/bases de datos en CFP N° 1 y estudiante de la **Licenciatura en Tecnología Educativa (UTN FRBA)**.
 
 ---
